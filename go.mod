@@ -1,4 +1,4 @@
-module github.com/SpectatorNan/gorm-zero
+module github.com/casey-gu/gorm-zero
 
 go 1.21
 
